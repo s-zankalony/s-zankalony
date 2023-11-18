@@ -18,7 +18,7 @@ Currently, I'm diving deep into the world of full stack web development, with a 
 
 I'm currently honing my skills in the MERN stack, exploring the intricacies of building robust and scalable web applications.
 
-## What's next
+## ⏭ What's next
 
 I don't know! may be I will try freelancing, may be I'll look for a job first to train more. I'm focusing on learning right now, then I'll try to create some projects.
 wish me luck!
