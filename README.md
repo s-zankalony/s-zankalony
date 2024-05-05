@@ -6,19 +6,12 @@ Currently, I'm diving deep into the world of full stack web development, with a 
 
 ## 🔧 What I have learned till now
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,nodejs,mongodb,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,php,linux,mysql)](https://skillicons.dev)
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- MongoDB
-- and more!
 
 ## 🌱 What I'm currently learning
 
-I'm currently honing my skills in the MERN stack, exploring the intricacies of building robust and scalable web applications.
+After finishing MERN stack course, I'm currently learining PHP, afterwards, will learn Next.js & TypeScript.
 
 ## ⏭ What's next
 
