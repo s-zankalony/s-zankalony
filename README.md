@@ -6,6 +6,8 @@ Currently, I'm diving deep into the world of full stack web development, with a 
 
 ## 🔧 What I have learned till now
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,nodejs,mongodb,php)](https://skillicons.dev)
+
 - HTML
 - CSS
 - JavaScript
