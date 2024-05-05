@@ -8,6 +8,7 @@ Currently, I'm diving deep into the world of full stack web development, with a 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,php,linux,mysql)](https://skillicons.dev)
 
+Icons by [skill-icons](https://github.com/tandpfun/skill-icons#readme)
 
 ## 🌱 What I'm currently learning
 
