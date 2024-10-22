@@ -6,7 +6,7 @@ Currently, I'm diving deep into the world of full stack web development, with a 
 
 ## 🔧 What I have learned till now
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,php,linux,mysql,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,linux,mysql,nextjs)](https://skillicons.dev)
 
 Icons by [@skill-icons](https://github.com/tandpfun/skill-icons#readme)
 
